@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Stylish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Edu+NSW+ACT+Foundation:wght@500&family=Fascinate&family=Stylish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Fascinate&family=Stylish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Edu+NSW+ACT+Foundation:wght@500&family=Fascinate&family=Pacifico&family=Stylish&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Edu+NSW+ACT+Foundation:wght@500&family=Fascinate&family=Pacifico&family=Stylish&display=swap');
+
+* {
+    margin: 0;
+    padding: 5px;
+}
+
+body{
+    
+    background-color: beige;
+    width: 75%;
+    margin: 30px auto;
+}
+
+h2{
+    font-size: 30px;
+
+}
+p{
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Fascinate', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Stylish', sans-serif;
+}
+
+
+.Heading {
+    font-family:'Fascinate' cursive;
+    font-family: 'Stylish', sans-serif;
+    text-align: center;
+    font-size: 64px;
+}
+
+.subheading{
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Fascinate', cursive;
+    font-family: 'Stylish', sans-serif;
+}
+
+.Big_picture{
+    border: 2px solid #ddd;
+    margin: 10px auto;
+    width: auto;
+    height: 327px;
+    display: block;
+}
+
+.origin{
+    background-color: white;
+}
+.quotes{
+    display: flexbox;
+    margin-top: 20px; 
+    background-color: grey;
+}
+
+.quote{
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-family: 'Fascinate', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Stylish', sans-serif;
+    font-size: 24px;
+    /*background-color:white;*/
+    display: flexbox;
+    width: 700px;
+    margin: 10px auto;
+}
+
+.education{
+    display: flexbox;
+    background-color: grey;
+    margin: 10px auto;
+}
+
+.company{
+    margin: 10px;
+    padding: 5px;
+}
+
+.likeabthim{
+    background-color: white;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+.moreoninternet{
+    margin: 10px;
+    font-size: 20px;
+}
